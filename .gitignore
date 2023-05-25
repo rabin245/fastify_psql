@@ -58,3 +58,5 @@ profile*
 *flamegraph*
 
 yarn.lock
+
+.env
